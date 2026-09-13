@@ -68,4 +68,8 @@ HOST_YUM="https://mirrors.aliyun.com/repo/Centos-7.repo"   # YUM 源地址
 当前脚本基于 CentOS 7.9 编写。由于 CentOS 7 已停止维护，后续计划将脚本适配到 Rocky Linux 9，作为长期使用的版本
 
 
+#使用方法
 
+```bash
+
+bash Auto_CentosEvn_tool.sh
