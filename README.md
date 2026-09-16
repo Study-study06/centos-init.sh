@@ -72,4 +72,4 @@ HOST_YUM="https://mirrors.aliyun.com/repo/Centos-7.repo"   # YUM 源地址
 
 ```bash
 
-bash Auto_CentosEvn_tool.sh
+bash centos-init.sh
